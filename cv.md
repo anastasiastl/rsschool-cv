@@ -2,7 +2,7 @@
 
 ## Contacts
 
-email: **stalchinskaya@gmail.com**
+email: [stalchinskaya@gmail.com](mailto:stalchinskaya@gmail.com)
 
 ## About me
 
