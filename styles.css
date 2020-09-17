@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: auto;
+    grid-template-areas: "left right";
+    max-width: 800px;
+    margin: 10px auto;
+}
+.left-column {
+    grid-area: left;
+}
+.right-column {
+    grid-area: right;
+}
+section {
+    margin: 30px;
+}
+h1, h2, p, ul {
+    color: #424949;
+    font-family: Noto Sans SC, sans-serif;
+}
+.round {
+    border-radius: 100px;
+    border: 3px #424949;
+}
+ul {
+    padding: 0px;
+    margin-left: 20px;
+}
+a {
+    color: #424949;
+    font-weight: bold;
+}
+a:hover {
+    color: #A6ACAF;
+}
